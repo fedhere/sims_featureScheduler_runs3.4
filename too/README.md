@@ -21,7 +21,7 @@ For ToO workshop in March 2024, we would like to simulate:
 - 64 
 
 
-**Footprint (same for all sims)**: 
+**Footprint (same for all sims)**: ** to be checked
 - 50% 100 sqdeg
 - 35% 50 sqdeg
 - 15% 20 sqdeg
@@ -47,12 +47,15 @@ D)
    REPEATS:   t0+2 t0+4 hours from trigger
    NIGHT 1: 6x_g_ + 6x_z_ 
 
-SET 2 A, B, C, D, same as set 1 but with NIGHT 2:  6x_g_ + 6x_z_
+SET 2: A, B, C, D, same as set 1 but with NIGHT 2:  6x_g_ + 6x_z_
 
 
 **ALL SETS INTERRUPTS**
-20% of the ToOs should be taken to completion
-80% of the ToOs shoudl be interrupted at time t0+t with t drawn from p(t)~t**2 between t0 and t0+100 hours
+20% of the ToOs should be taken to completion ** to be checked
+80% of the ToOs shoudl be interrupted at time t0+t with t drawn from p(t)~t**2 between t0 and t0+100 hours ** to be checked
+
+The total would be 4 x 4 x 2 simulations => 32 simulations
+
 
 
 
